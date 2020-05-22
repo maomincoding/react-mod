@@ -1,3 +1,4 @@
+// 分模块Reducer
 import { combineReducers } from 'redux-immutable';
 import { reducer as homeReducer } from '../views/Home/store/';
 import { reducer as aboutReducer } from '../views/About/store/';

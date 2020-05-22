@@ -1,3 +1,4 @@
+// axios配置
 import axios from 'axios';
 // 环境的切换
 if (process.env.NODE_ENV === 'development') {

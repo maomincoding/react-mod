@@ -1,3 +1,4 @@
+// 页面组件
 import loadable from '../util/loadable';
 
 export const Home = loadable(()=> import('../views/Home/'));

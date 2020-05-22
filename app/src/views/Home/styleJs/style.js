@@ -1,3 +1,4 @@
+// home页面的样式
 import styled from 'styled-components';
 
 export const Click = styled.p `

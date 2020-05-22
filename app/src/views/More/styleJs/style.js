@@ -1,3 +1,4 @@
+// more页面的样式
 import styled from 'styled-components';
 import bg from '../../../assets/images/author.png';
 

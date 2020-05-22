@@ -1,3 +1,4 @@
+// 路由配置
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
@@ -6,7 +7,7 @@ import {Home,About,More} from './routes'
 
 const APPRouter = () =>(
     <Provider store={store}>
-        <Router >
+        <Router>
             <div>
                 <Route exact={true} path="/" component={Home}/>
                 <Route exact={true} path="/about/:id" component={About}/>

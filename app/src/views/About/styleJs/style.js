@@ -1,3 +1,4 @@
+// about页面的样式
 import styled from 'styled-components';
 
 const TxtOne = styled.div`

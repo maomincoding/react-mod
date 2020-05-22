@@ -1,3 +1,4 @@
+// 全局页面组件
 import React from 'react';
 import Router from './router';
 import {GlobalStyle} from '../src/styled/index';
